@@ -20,6 +20,7 @@ The app is fully ad-free, no paywalls, and very simple to use...
  
  ## Where to download Geminiman WearOS Manager...?
  Here you go: [Play Store - GeminiMan Wellness Companion](https://play.google.com/store/apps/details?id=com.geminiman.wellness.companion&hl=en)
+ (Currently under development, so the app is avaliable for closed beta testing)
  
  ## Oh and if you want to enjoy other things I developed, then visit my website: https://geminiman.net/
  
