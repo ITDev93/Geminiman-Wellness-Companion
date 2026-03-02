@@ -1,13 +1,13 @@
 {
   "phone": {
-    "versionCode": 10000161,
-    "versionName": "phone.beta.1.0.0.61",
+    "versionCode": 10000165,
+    "versionName": "phone.beta.1.0.0.65",
     "forceUpdate": false,
     "message": "-"
   },
   "watch": {
-    "versionCode": 10000261,
-    "versionName": "watch.beta.1.0.0.61",
+    "versionCode": 10000265,
+    "versionName": "watch.beta.1.0.0.65",
     "forceUpdate": false,
     "message": "-"
   }
