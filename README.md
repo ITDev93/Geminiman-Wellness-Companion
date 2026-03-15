@@ -15,7 +15,7 @@ An app that uses your Samsung Galaxy Watch Sensors and pass it to a trained AI m
 
 Check out this Video:
 
-[![Geminiman Wellness Companion?](https://img.youtube.com/vi/N1Mqi1-2xO0/maxresdefault.jpg)](https://youtu.be/N1Mqi1-2xO0
+[![Geminiman Wellness Companion?](https://img.youtube.com/vi/N1Mqi1-2xO0/maxresdefault.jpg)](https://youtu.be/N1Mqi1-2xO0)
 
 # Disclaimer:
 This app is not for Diagnostic purpose, if you feel unwell, seek medical care...
