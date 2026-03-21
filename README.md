@@ -33,8 +33,10 @@ The app is fully ad-free, no paywalls, and very simple to use...
 
 ***
 
- ## Project Roadmap:
- ![alt text](https://raw.githubusercontent.com/ITDev93/Geminiman-Wellness-Companion/refs/heads/main/imgs/ECG%20Testers.png "Beta Testers")
+ ## Project Roadmap - Updated 2026:
+ ![alt text](https://raw.githubusercontent.com/ITDev93/Geminiman-Wellness-Companion/refs/heads/main/roadmap/Project_Roadmap.JPG "Roadmap Updated 2026")
+
+ You can see more details at [Detailed Roadmap](https://github.com/ITDev93/Geminiman-Wellness-Companion/tree/main/roadmap)
 
 ***
 
