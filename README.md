@@ -10,6 +10,8 @@
 The main purpose of this repo is to put Geminiman Wellness Companion Development Roadmap and Youtube Videos on for the app to fetch...
 It is possible to open tickets and have a discussion here too....
 
+***
+
 # What's Geminiman Wellness Companion...?
 An app that uses your Samsung Galaxy Watch Sensors and pass it to a trained AI model to give you Health insights...
 
@@ -17,19 +19,30 @@ Check out this Video:
 
 [![Geminiman Wellness Companion?](https://img.youtube.com/vi/N1Mqi1-2xO0/maxresdefault.jpg)](https://youtu.be/N1Mqi1-2xO0)
 
-# Disclaimer:
-This app is not for Diagnostic purpose, if you feel unwell, seek medical care...
+***
 
-The app is fully ad-free, no paywalls, and very simple to use...
- 
  ## Where to download Geminiman WearOS Manager...?
  Here you go: [Play Store - GeminiMan Wellness Companion](https://play.google.com/store/apps/details?id=com.geminiman.wellness.companion&hl=en)
  (Currently under development, so the app is avaliable for closed beta testing)
 
+***
+
+# Disclaimer:
+This app is not for Diagnostic purpose, if you feel unwell, seek medical care...
+The app is fully ad-free, no paywalls, and very simple to use...
+
+***
+
+ ## Project Roadmap:
+ ![alt text](https://raw.githubusercontent.com/ITDev93/Geminiman-Wellness-Companion/refs/heads/main/imgs/ECG%20Testers.png "Beta Testers")
+
+***
+
  ## Thanks to the Amazing Beta Testers, lots of love and shoutout  from me:
  ![alt text](https://raw.githubusercontent.com/ITDev93/Geminiman-Wellness-Companion/refs/heads/main/imgs/ECG%20Testers.png "Beta Testers")
 
- 
+***
+
  ## Oh and if you want to enjoy other things I developed, then visit my website: https://geminiman.net/
  
  ## Want to Support Me...?
