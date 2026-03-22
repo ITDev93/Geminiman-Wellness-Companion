@@ -41,7 +41,7 @@ The app is fully ad-free, no paywalls, and very simple to use...
 ***
 
  ## Thanks to the Amazing Beta Testers, lots of love and shoutout  from me:
- ![alt text](https://raw.githubusercontent.com/ITDev93/Geminiman-Wellness-Companion/refs/heads/main/imgs/ECG%20Testers.png "Beta Testers")
+ ![alt text](https://raw.githubusercontent.com/ITDev93/Geminiman-Wellness-Companion/refs/heads/main/imgs/ECG-Testers.png "Beta Testers")
 
 ***
 
