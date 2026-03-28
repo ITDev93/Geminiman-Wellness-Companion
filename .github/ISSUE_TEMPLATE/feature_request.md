@@ -10,6 +10,9 @@ assignees: ''
 > [!NOTE]
 > Feature requests are not guaranteed to be implemented, as an individual developer, I may or may not consider your feature request, depending on complexity and feasibility of implementing it...
 -----
+**Was this feature discussed?**
+Yes/No
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
