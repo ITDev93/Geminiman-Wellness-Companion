@@ -21,7 +21,7 @@ Check out this Video:
 
 ***
 
- ## Where to download Geminiman WearOS Manager...?
+ ## Where to download Geminiman Wellness Companion...?
  Here you go: [Play Store - GeminiMan Wellness Companion](https://play.google.com/store/apps/details?id=com.geminiman.wellness.companion&hl=en)
  (Currently under development, so the app is avaliable for closed beta testing)
 
