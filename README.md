@@ -21,9 +21,9 @@ Check out this Video:
 
 ***
 
- ## Where to download Geminiman WearOS Manager...? (App has been pushed to playstore since 31st March 2026, waiting for google approval to be visible) 
+ ## Where to download Geminiman WearOS Manager...?
  Here you go: [Play Store - GeminiMan Wellness Companion](https://play.google.com/store/apps/details?id=com.geminiman.wellness.companion&hl=en)
- (Currently under development, so the app is avaliable for closed beta testing)
+ (App has been pushed to playstore since 31st March 2026, waiting for google approval to be visible)
 
 ***
 
