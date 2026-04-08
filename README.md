@@ -23,7 +23,6 @@ Check out this Video:
 
  ## Where to download Geminiman Wellness Companion...?
  Here you go: [Play Store - GeminiMan Wellness Companion](https://play.google.com/store/apps/details?id=com.geminiman.wellness.companion&hl=en)
- (App has been pushed to playstore since 31st March 2026, waiting for google approval to be visible)
 
 ***
 
